@@ -1,0 +1,18 @@
+﻿  project 1.c
+D:\c语言\The 3 C\The 3 C\project 1.c(5,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+      D:\c语言\The 3 C\The 3 C\project 1.c(5,9):
+      请考虑在格式字符串中使用“%zd”
+  
+D:\c语言\The 3 C\The 3 C\project 1.c(6,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+      D:\c语言\The 3 C\The 3 C\project 1.c(6,9):
+      请考虑在格式字符串中使用“%zd”
+  
+D:\c语言\The 3 C\The 3 C\project 1.c(7,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+      D:\c语言\The 3 C\The 3 C\project 1.c(7,9):
+      请考虑在格式字符串中使用“%zd”
+  
+D:\c语言\The 3 C\The 3 C\project 1.c(8,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+      D:\c语言\The 3 C\The 3 C\project 1.c(8,9):
+      请考虑在格式字符串中使用“%zd”
+  
+  The 3 C.vcxproj -> D:\c语言\The 3 C\x64\Debug\The 3 C.exe
